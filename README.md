@@ -1,5 +1,4 @@
 # Simon-Says-Game
-# Simon Says Game
 
 A browser-based memory game built using **HTML, CSS, and JavaScript**. The game generates a sequence of colors that the player must remember and reproduce correctly. The sequence becomes longer with each level.
 
